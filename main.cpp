@@ -35,7 +35,7 @@ public:
 		to = _to;
 		return *this;
 	}
-	//private:
+	
 	unsigned long long timestamp;
 	int code;
 	char town[10];
